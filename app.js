@@ -12,4 +12,10 @@ epicenter.config(function($stateProvider, $urlRouterProvider) {
 		controller: 'EpicenterCtrl'
 	});
 	
+	$stateProvider.state('students',  {
+		url: "/students",
+		templateUrl: "partials/students.html",
+		controller: 'EpicenterCtrl'
+	});
+	
 });
