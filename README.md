@@ -22,7 +22,7 @@ JavaScript, Angular, Angular UI-Router, HTML, Bootstrap, CSS
 
 ## Legal
 
-Copyright (c) 2015 **Ben Spenard, Julio Diaz, Logan Wu & Nathan Young**
+Copyright (c) 2015 **Julio Diaz**
 
 This software is licensed under the MIT license.
 
